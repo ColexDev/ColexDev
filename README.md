@@ -14,6 +14,6 @@ Skills: C / C++ / Git / Github / Linux / CLI
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColexDev)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ColexDev&show_icons=true&count_private=true)  
+<!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ColexDev&show_icons=true&count_private=true) --->
 
 ![Profile views](https://gpvc.arturio.dev/ColexDev) 
