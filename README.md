@@ -2,7 +2,7 @@
 #### Developer, Arch Linux user and libre software advocate 
 I am an up and coming C/C++ developer. I am 18 years old and will be attending Purdue University for Computer Engineering this Fall.
 
-Skills: C / C++ / Git / Github / Linux / CLI
+Skills: C (in progress) / C++ / Git / Github / Linux / CLI
 
 - 🌱 I’m currently learning C 
 - 👯 I’m looking to collaborate on Minimal Software 
