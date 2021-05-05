@@ -7,7 +7,7 @@ Skills: C (in progress) / C++ / Git / Github / Linux / CLI
 - 🌱 I’m currently learning C 
 - 👯 I’m looking to collaborate on Minimal Software 
 - 📫 How to reach me: cole@colex.dev 
-- ⚡ Fun fact: I am a Stoic 
+- ⚡ Fun fact: I practice Stoicism
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ColexDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/ColexDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](colex.dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/archlinux.svg' alt='archlinux' height='40'>](colex.dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>](colex.dev)  
