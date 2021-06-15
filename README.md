@@ -16,4 +16,4 @@ Skills: C++ / Git / Linux / CLI / Bash
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ColexDev&show_icons=true&count_private=true) --->
 
-![Profile views](https://gpvc.arturio.dev/ColexDev) 
+![Profile views](https://komarev.com/ghpvc/?username=colexdev&label=Profile%20views&color=0e75b6&style=flat) 
