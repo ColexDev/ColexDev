@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Cole - aka ColexDev
 #### Developer, Arch Linux user and libre software advocate 
-I am an up and coming C++ developer. I am 18 years old and will be attending Purdue University for Computer Engineering (ECE) this Fall.
+I am an up and coming C++ developer. I enjoy using Linux and tinkering with anything tech related.
 
 Skills: C++ / Git / Linux / CLI / Bash
 
