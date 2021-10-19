@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=F7F7F7&size=25&vCenter=true&width=800&lines=Hello%2C+I+am+Cole!;I+am+a+Computer+Engineering+Student!;I+am+a+Linux+user+and+Open+Source+Developer!)](https://git.io/typing-svg)
 
-Skills: C++ / Git / Linux / CLI / Bash
+Skills: C++ / Python / Git / Linux / CLI / Bash / VIM
 
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on Minimal Software 
