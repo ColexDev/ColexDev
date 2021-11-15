@@ -1,5 +1,5 @@
 Yo, I am Cole.<br/>
-I am a libre software advocate.<br/>
+Libre software advocate.<br/>
 Currently learning C.<br/>
 Arch is pretty cool ig.<br/>
 
