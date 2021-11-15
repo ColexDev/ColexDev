@@ -1,11 +1,12 @@
 ```bash
-cole@github:~$ cat bio.txt
+[cole@github ~]$ cd README/
+[cole@github ~/README]$ cat bio.txt
 Yo, I am Cole.
 Libre software advocate.
 Currently learning C.
 Arch is pretty cool ig.
 
-cole@github:~$ cat skills.txt
+[cole@github ~/README]$ cat skills.txt
 Skills: C++ / Python / Git / Linux / CLI / Bash / VIM
 ```
 
