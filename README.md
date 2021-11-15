@@ -1,13 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&color=F7F7F7&size=25&vCenter=true&width=800&lines=Hello%2C+I+am+Cole!;I+am+a+Computer+Engineering+Student!;I+am+a+Linux+user+and+Open+Source+Developer!)](https://git.io/typing-svg)
+Yo, I am Cole.<br/>
+I am a libre software advocate.<br/>
+Currently learning C.<br/>
+Arch is pretty cool ig.<br/>
 
 Skills: C++ / Python / Git / Linux / CLI / Bash / VIM
 
-- 🌱 I’m currently learning C++
-- 👯 I’m looking to collaborate on Minimal Software 
-- 📫 How to reach me: cole@colex.dev 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ColexDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/ColexDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](colex.dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/archlinux.svg' alt='archlinux' height='40'>](colex.dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>](colex.dev)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColexDev)](https://github.com/anuraghazra/github-readme-stats)
 
