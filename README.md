@@ -1,12 +1,17 @@
-Yo, I am Cole.<br/>
-Libre software advocate.<br/>
-Currently learning C.<br/>
-Arch is pretty cool ig.<br/>
+```bash
+cole@github:~$ cat bio.txt
+Yo, I am Cole.
+Libre software advocate.
+Currently learning C.
+Arch is pretty cool ig.
 
+cole@github:~$ cat skills.txt
 Skills: C++ / Python / Git / Linux / CLI / Bash / VIM
+```
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColexDev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colexdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ColexDev&show_icons=true&count_private=true) --->
 
