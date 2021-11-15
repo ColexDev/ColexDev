@@ -1,5 +1,6 @@
 ```bash
 [cole@github ~]$ cd README/
+
 [cole@github ~/README]$ cat bio.txt
 Yo, I am Cole.
 Libre software advocate.
