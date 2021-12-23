@@ -5,8 +5,8 @@
 I am Cole.
 Libre software advocate.
 Currently learning C.
-Linux is pretty cool
-I use Arch btw
+Linux is pretty cool.
+I use Arch btw.
 
 [cole@github ~/README]$ cat skills.txt
 Skills: C++ / Python / Git / Linux / CLI / Bash / VIM
