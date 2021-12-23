@@ -2,10 +2,11 @@
 [cole@github ~]$ cd README/
 
 [cole@github ~/README]$ cat bio.txt
-Yo, I am Cole.
+I am Cole.
 Libre software advocate.
 Currently learning C.
-Arch is pretty cool ig.
+Linux is pretty cool
+I use Arch btw
 
 [cole@github ~/README]$ cat skills.txt
 Skills: C++ / Python / Git / Linux / CLI / Bash / VIM
