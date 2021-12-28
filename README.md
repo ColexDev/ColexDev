@@ -5,8 +5,7 @@
 I am Cole.
 Libre software advocate.
 Currently learning C.
-Linux is pretty cool.
-I use Void btw.
+Void Linux
 
 [cole@github ~/README]$ cat skills.txt
 Skills: C / Python / Git / Linux / CLI / Bash / VIM
