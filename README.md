@@ -10,7 +10,7 @@ Libre software advocate.
 Currently learning C.
 Future Computer Engineer
 Void Linux
-[More](colex.dev)
+![More](https://colex.dev/links.html)
 [cole@github ~/README]$ cat skills.txt
 Skills: C / Python / Git / Linux / CLI / Bash / VIM
 ```
