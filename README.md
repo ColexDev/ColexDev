@@ -15,7 +15,7 @@ Future Computer Engineer
 Void Linux
 
 [cole@github ~/README]$ cat skills
-Skills: C / Python / Git / Linux / CLI / Bash / VIM
+Skills: C / C++ / Python / Git / Linux / CLI / Bash / VIM
 
 [cole@github ~/README]$ cat contact
 Email: cole@colex.dev
