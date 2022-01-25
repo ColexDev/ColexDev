@@ -5,7 +5,7 @@ dev misc scripts README "homework" K&R.pdf
 [cole@github ~]$ cd README/
 
 [cole@github ~/README]$ ls
-bio skills special contact
+bio skills secret contact
 
 [cole@github ~/README]$ cat bio
 I am Cole.
