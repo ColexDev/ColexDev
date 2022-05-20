@@ -1,6 +1,6 @@
 ```bash
 [cole@github ~]$ ls
-dev misc scripts README "homework" K&R.pdf
+dev misc scripts README "homework" K&R.pdf Tanenbaum.pdf
 
 [cole@github ~]$ cd README/
 
@@ -8,19 +8,23 @@ dev misc scripts README "homework" K&R.pdf
 bio skills contact
 
 [cole@github ~/README]$ cat bio
-I am Cole
-Libre software advocate
-Currently learning C
-Future Computer Engineer
-Void Linux
+- I am Cole
+- Computer Engineering Student
+- I use Void Linux BTW
+- I use GrapheneOS BTW
+- Currently Learning Operating Systems
 
 [cole@github ~/README]$ cat skills
-Skills: C / C++ / Python / Git / Linux / CLI / Bash / VIM
+- Skills: C / C++ / Python / Bash / Git / Linux / CLI / VIM
 
 [cole@github ~/README]$ cat contact
-Email: cole@colex.dev
-Website: colex.dev
-Matrix: colexdev
+- Email: cole@colex.dev
+- Website: colex.dev
+- Matrix: colexdev
+
+[cole@github ~/README]$ cat ANNOUCEMENTS
+- BIG things coming soon, sadly all in private repos for now. Paper coming soon. :eyes:
+- Starting new projects and taking on new roles. More info will come soon, most likely on my website
 
 [cole@github ~/README]$ exit
 ```
