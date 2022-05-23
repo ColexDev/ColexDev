@@ -5,7 +5,7 @@ dev misc scripts README "homework" K&R.pdf Tanenbaum.pdf
 [cole@github ~]$ cd README/
 
 [cole@github ~/README]$ ls
-bio skills contact
+bio skills contact ANNOUCEMENTS
 
 [cole@github ~/README]$ cat bio
 - I am Cole
