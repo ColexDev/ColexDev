@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colexdev&label=Profile%20views&color=0e75b6&style=flat-square" alt="colexdev" /> </p>
 
-- 🔭 I’m currently working on [PROS](https://github.com/purduesigbots/pros)
+- 🔭 I’m currently working on [PROS](https://github.com/purduesigbots/pros) and [cpom](https://github.com/colexdev/cpom)
 
 - 🌱 I’m currently learning **Operating Systems, C, Systems Programming**
 
