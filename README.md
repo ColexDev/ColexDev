@@ -10,8 +10,3 @@
 - 📝 I post on [https://colex.dev/](https://colex.dev/)
 
 <!-- - 📫 How to reach me **cole@colex.dev** -->
-
-<p align="left">
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=colexdev&show_icons=true&locale=en&layout=compact" alt="colexdev" /></p>
