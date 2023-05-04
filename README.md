@@ -1,5 +1,5 @@
 <h1 align="center">Hey!</h1>
-<h3 align="center">Aspiring Operating System Engineer</h3>
+<h3 align="center">Aspiring Embedded and Operatings System Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colexdev&label=Profile%20views&color=0e75b6&style=flat-square" alt="colexdev" /> </p>
 
