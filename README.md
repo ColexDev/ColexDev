@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ParOS](https://github.com/colexdev/paros)
 
-- 🌱 I’m currently learning **Operating Systems, C, Systems Programming**
+- 🌱 I’m currently learning about **Operating Systems and Embedded Software**
 
 - 📝 I post on [https://colex.dev/](https://colex.dev/)
 
