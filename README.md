@@ -10,3 +10,5 @@
 - 📝 I post updates and blog on [https://colex.dev/](https://colex.dev/)
 
 - 📫 How to reach me **cole@colex.dev**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colexdev&layout=compact)
