@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning about **Operating Systems and Embedded Software**
 
-- 📝 I post updates and blog on [https://colex.dev/](https://colex.dev/)
+- 📝 I post updates and blog on [https://coleroberts.dev/](https://coleroberts.dev/)
 
 - 📫 How to reach me **cole@colex.dev**
 
