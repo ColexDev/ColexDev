@@ -1,14 +1,5 @@
-<h1 align="center">Hey!</h1>
-<h3 align="center">I am an Embedded Systems Engineer</h3>
+- My focus is on Embedded Systems and Operating Systems
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=colexdev&label=Profile%20views&color=0e75b6&style=flat-square" alt="colexdev" /> </p>
+- I post updates and blog on [https://coleroberts.dev/](https://coleroberts.dev/)
 
-<!-- - 🔭 I’m currently working on [ParOS](https://github.com/colexdev/paros) -->
-
-- 🌱 I’m currently learning about **Operating Systems and Embedded Software**
-
-- 📝 I post updates and blog on [https://coleroberts.dev/](https://coleroberts.dev/)
-
-- 📫 How to reach me **cole@colex.dev**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colexdev&layout=compact&theme=dark&hide_border=true)
+- Contact me via email: **cole@colex.dev**
