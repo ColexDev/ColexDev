@@ -1,5 +1,5 @@
-- My focus is on Embedded Systems and Operating Systems
+- My focus is on Embedded Systems and Reverse Engineering.
 
-- I post updates and blog on [https://coleroberts.dev/](https://coleroberts.dev/)
+- [https://zyonse.com/](https://zyonse.com/)
 
-- Contact me via email: **cole@coleroberts.dev**
+- Contact me via email: **gavin@zyonse.com**
