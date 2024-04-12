@@ -1,4 +1,4 @@
-- My focus is on Embedded Systems and Operating Systems
+- My current focus is on Embedded Systems
 
 - I post updates and blog on [https://coleroberts.dev/](https://coleroberts.dev/)
 
