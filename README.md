@@ -1,3 +1,3 @@
-- My current focus is on Embedded Systems
+- I write firmware
 
 - Contact me via email: **hi@coleroberts.dev**
