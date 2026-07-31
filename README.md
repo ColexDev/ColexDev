@@ -1,3 +1,1 @@
-- I write firmware
-
-- Contact me via email: **hi@coleroberts.dev**
+- I write firmware (sometimes)
